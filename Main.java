@@ -238,6 +238,8 @@ BB:::::BBBBBB::::::BSSSSSSS     S:::::S      TT:::::::TT
 B:::::::::::::::::B S::::::SSSSSS:::::S      T:::::::::T                                                                                                       
 B::::::::::::::::B  S:::::::::::::::SS       T:::::::::T                                                                                                       
 BBBBBBBBBBBBBBBBB    SSSSSSSSSSSSSSS         TTTTTTTTTTT                                                                                                       
-                                                                                  
+                                                    
+By Aidan Dorn 
+◞( ､ᐛ)､＿/ 
         """);
 }
